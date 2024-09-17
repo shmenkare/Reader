@@ -31,3 +31,11 @@ F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK
 F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\obj\x86\Debug\Reader.Form1.resources
 F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\obj\x86\Debug\Reader.Properties.Resources.resources
 F:\Mis Documentos\CURSOS\PROGRAMING\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\obj\x86\Debug\Reader.csproj.GenerateResource.Cache
+F:\Mis Documentos\Visual Studio 2010\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\obj\x86\Debug\Reader.exe
+F:\Mis Documentos\Visual Studio 2010\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\obj\x86\Debug\Reader.pdb
+F:\Mis Documentos\Visual Studio 2010\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\bin\Debug\Reader.exe
+F:\Mis Documentos\Visual Studio 2010\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\bin\Debug\Reader.pdb
+F:\Mis Documentos\Visual Studio 2010\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\obj\x86\Debug\Reader.csprojResolveAssemblyReference.cache
+F:\Mis Documentos\Visual Studio 2010\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\obj\x86\Debug\Reader.Form1.resources
+F:\Mis Documentos\Visual Studio 2010\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\obj\x86\Debug\Reader.Properties.Resources.resources
+F:\Mis Documentos\Visual Studio 2010\REPOS VISUAL STUDIO\Proyectos .NET FRAMEWORK\Desarrollador .NET\Reader\obj\x86\Debug\Reader.csproj.GenerateResource.Cache
