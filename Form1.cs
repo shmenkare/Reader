@@ -73,10 +73,7 @@ namespace Reader
             rd.Close();
             con.Close();
         }
-
-        
     }
-
 }
 
 
