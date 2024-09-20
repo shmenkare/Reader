@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<Store>
+  <Departamentos>
+    <id_dep>1</id_dep>
+    <Nombre>Electrodomesticos</Nombre>
+    <Descripcion>Licuadoras,tostadoras,etc</Descripcion>
+  </Departamentos>
+  <Departamentos>
+    <id_dep>2</id_dep>
+    <Nombre>Linea blanca</Nombre>
+    <Descripcion>Lavadoras, neveras</Descripcion>
+  </Departamentos>
+  <Departamentos>
+    <id_dep>3</id_dep>
+    <Nombre>Sonido</Nombre>
+    <Descripcion>Equipos de sonido</Descripcion>
+  </Departamentos>
+  <Departamentos>
+    <id_dep>4</id_dep>
+    <Nombre>TV</Nombre>
+    <Descripcion>Televisotes</Descripcion>
+  </Departamentos>
+  <Departamentos>
+    <id_dep>5</id_dep>
+    <Nombre>Computacion</Nombre>
+    <Descripcion>PCs y accesorios</Descripcion>
+  </Departamentos>
+  <Inventario>
+    <id_prod>1</id_prod>
+    <Nombre>Licuadora</Nombre>
+    <Cantidad>25</Cantidad>
+    <Precio>50</Precio>
+    <id_dep>1</id_dep>
+  </Inventario>
+  <Inventario>
+    <id_prod>2</id_prod>
+    <Nombre>Lavadora</Nombre>
+    <Cantidad>10</Cantidad>
+    <Precio>800</Precio>
+    <id_dep>2</id_dep>
+  </Inventario>
+  <Inventario>
+    <id_prod>3</id_prod>
+    <Nombre>Mini componente</Nombre>
+    <Cantidad>15</Cantidad>
+    <Precio>150</Precio>
+    <id_dep>3</id_dep>
+  </Inventario>
+  <Inventario>
+    <id_prod>4</id_prod>
+    <Nombre>TV LED</Nombre>
+    <Cantidad>5</Cantidad>
+    <Precio>300</Precio>
+    <id_dep>4</id_dep>
+  </Inventario>
+  <Inventario>
+    <id_prod>5</id_prod>
+    <Nombre>Laptop</Nombre>
+    <Cantidad>20</Cantidad>
+    <Precio>550</Precio>
+    <id_dep>5</id_dep>
+  </Inventario>
+</Store>
