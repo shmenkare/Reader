@@ -17,9 +17,8 @@ namespace Reader
         private SqlDataReader rd;
         private DataSet ds;
         private DataTable dt;
-        private DataColumn id;
-        private DataColumn name;
-        private DataColumn age;
+        private DataTable dt1;
+       
 
         public Form1()
         {
@@ -30,31 +29,55 @@ namespace Reader
         {
             Read();
 
-            ds = new DataSet("DataBase");
-            dt = new DataTable("Nombres");
+           //CREANDO DATA SET Y DATATABLE
             
-            id = new DataColumn("Id", typeof(int));
+            ds = new DataSet("Store");
+            
+           //TABLA DEPARTAMENTOS
+          
+            dt = new DataTable("Departamentos");
+            DataColumn id = new DataColumn("id_dep", typeof(int));
             id.AutoIncrement = true;
             id.AutoIncrementSeed = 1;
             id.AutoIncrementStep = 1;
-           
-            name = new DataColumn("Nombre", typeof(string));
-            age = new DataColumn("Edad",typeof(int));
-            
-            dt.Columns.AddRange(new DataColumn[] { id, name, age });
-            dt.PrimaryKey = new DataColumn[] { id };
-            
-            ds.Tables.Add(dt);
-            
-            dt.Rows.Add(null,"Orion",50);
-            dt.Rows.Add(null,"Vader", 55);
-            dt.Rows.Add(null,"Shmenkare", 35);
-            dt.Rows.Add(null,"Fett", 40);
-            dt.Rows.Add(null,"Han Solo", 35);
-            dt.Rows.Add(null,"Maulth", 30);
-            dt.Rows.Add(null, "Acvar", 65);
+            id.AllowDBNull = false;
+            DataColumn nom = new DataColumn("Nombre", typeof(string));
+            DataColumn des = new DataColumn("Descripcion", typeof(string));
+            DataColumn fk = new DataColumn("id_prod", typeof(int));
+            dt.Columns.AddRange(new DataColumn[]{id,nom,des,fk});
+            dt.PrimaryKey = new DataColumn[] {id};
 
-            dgvDatos.DataSource = dt;
+            //TABLA INVENTARIO
+
+            dt1 = new DataTable("Inventario");
+            DataColumn idprod = new DataColumn("id_prod", typeof(int));
+            idprod.AutoIncrement = true;
+            idprod.AutoIncrementSeed = 1;
+            idprod.AutoIncrementStep = 1;
+            idprod.AllowDBNull = false;
+            DataColumn nomInv = new DataColumn("Nombre", typeof(string));
+            DataColumn can = new DataColumn("Cantidad", typeof(int));
+            DataColumn pre = new DataColumn("Precio", typeof(double));
+            dt1.Columns.AddRange(new DataColumn[] { idprod, nomInv, can, pre });
+            dt1.PrimaryKey = new DataColumn[] { idprod };
+
+            //RELACIONES
+
+            //ds.Relations.Add(idprod,fk);
+
+            //FILAS
+
+            
+            
+
+
+
+
+           
+          
+
+            dgvDep.DataSource = dt;
+            dgvInv.DataSource = dt1;
 
         }
 

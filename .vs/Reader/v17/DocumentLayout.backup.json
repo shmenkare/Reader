@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Desarrollador .NET\\Reader\\",
+  "WorkspaceRootPath": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\Reader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5A3ADD5-2D7F-4DAD-8AC2-E5CEC2C165C7}|Reader.csproj|f:\\mis documentos\\cursos\\programing\\repos visual studio\\desarrollador .net\\reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5A3ADD5-2D7F-4DAD-8AC2-E5CEC2C165C7}|Reader.csproj|f:\\mis documentos\\cursos\\programing\\repos visual studio\\proyectos .net framework\\desarrollador .net\\reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A3ADD5-2D7F-4DAD-8AC2-E5CEC2C165C7}|Reader.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A3ADD5-2D7F-4DAD-8AC2-E5CEC2C165C7}|Reader.csproj|F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Desarrollador .NET\\Reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A5A3ADD5-2D7F-4DAD-8AC2-E5CEC2C165C7}|Reader.csproj|F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\Reader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A5A3ADD5-2D7F-4DAD-8AC2-E5CEC2C165C7}|Reader.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Desarrollador .NET\\Reader\\Form1.cs",
+              "DocumentMoniker": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\Reader\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Desarrollador .NET\\Reader\\Form1.cs",
+              "ToolTip": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\Reader\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T06:21:35.346Z",
               "EditorCaption": ""
@@ -61,10 +61,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Desarrollador .NET\\Reader\\Form1.cs",
+              "DocumentMoniker": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Proyectos .NET FRAMEWORK\\Desarrollador .NET\\Reader\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "F:\\Mis Documentos\\CURSOS\\PROGRAMING\\REPOS VISUAL STUDIO\\Desarrollador .NET\\Reader\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Desarrollador .NET\\Reader\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T06:21:24.322Z"
             }
