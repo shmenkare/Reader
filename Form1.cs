@@ -44,7 +44,8 @@ namespace Reader
             DataColumn nom = new DataColumn("Nombre", typeof(string));
             DataColumn des = new DataColumn("Descripcion", typeof(string));
             dt.Columns.AddRange(new DataColumn[]{id,nom,des});
-            dt.PrimaryKey = new DataColumn[] {id};
+            //dt.PrimaryKey = new DataColumn[] {id};
+            dt.Constraints.Add("Clave primaria",id, true);
 
             //TABLA INVENTARIO
 
@@ -103,7 +104,7 @@ namespace Reader
             dgvInv.DataSource = dt1;
 
             ds.WriteXml("Store.xml");
-
+          
         }
 
         public void Read()
